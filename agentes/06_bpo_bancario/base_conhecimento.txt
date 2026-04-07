@@ -1,6 +1,6 @@
 ============================================================
-BASE DE CONHECIMENTO 05 — BPO BANCARIO
-(Colar na base de conhecimento do agente Aurora BPO Bancario)
+BASE DE CONHECIMENTO — AURORA BPO BANCARIO (06)
+Agente: AURORA BPO BANCARIO | Subir na aba Conhecimento
 ============================================================
 
 ---

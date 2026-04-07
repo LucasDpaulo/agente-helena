@@ -1,1 +1,0 @@
-AURORA SUCESSO DO CLIENTE e um agente de IA que acolhe o cliente, registra reclamacoes e feedbacks, esclarece duvidas ambiguas e redireciona para o setor correto quando necessario. Tambem atende mensagens genericas, ponto digital eletronico e cartao premiacao CAJU. E o fallback universal do sistema.

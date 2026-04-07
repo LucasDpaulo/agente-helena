@@ -1,10 +1,10 @@
 ============================================================
-BASE DE CONHECIMENTO 01 — DEPARTAMENTO PESSOAL
-(Colar na base de conhecimento do agente Aurora Departamento Pessoal)
+BASE DE CONHECIMENTO — AURORA DEPARTAMENTO PESSOAL (02)
+Agente: AURORA DEPARTAMENTO PESSOAL | Subir na aba Conhecimento
 ============================================================
 
 ---
-ADMISSAO — DOCUMENTOS NECESSARIOS
+ADMISSAO — DOCUMENTOS
 ---
 
 Pergunta: Quais documentos sao necessarios para admissao?
@@ -35,7 +35,7 @@ Pergunta: E possivel alterar a data de admissao apos o envio ao eSocial?
 Resposta: Em regra, nao e permitido alterar a data de admissao apos o envio ao eSocial. Caso haja erro, e necessaria analise do caso para verificar a possibilidade de retificacao ou procedimento corretivo, que deve ser avaliado pelo setor responsavel.
 
 ---
-FOLHA DE PAGAMENTO — HORAS EXTRAS E ADICIONAIS
+FOLHA DE PAGAMENTO
 ---
 
 Pergunta: Ate quando podem ser enviadas horas extras, faltas e adicionais?
@@ -52,15 +52,19 @@ Resposta: O limite legal e de ate 2 horas extras por dia, salvo excecoes previst
 Pergunta: Como funciona o banco de horas?
 Resposta: O banco de horas permite compensar horas extras com folgas, desde que exista acordo individual ou coletivo, respeitando os prazos legais para compensacao.
 
+Pergunta: E possivel corrigir a folha apos o fechamento?
+Resposta: Sim, e possivel realizar correcoes apos o fechamento da folha, porem isso pode gerar reprocessamentos, ajustes em encargos e possiveis diferencas em impostos, devendo ser analisado caso a caso.
+
+---
+ADICIONAIS
+---
+
 Pergunta: Como sao calculados os adicionais (insalubridade, periculosidade e noturno)?
 Resposta:
 - Insalubridade: percentual de 10%, 20% ou 40% sobre o salario-minimo, conforme grau definido em laudo tecnico.
 - Periculosidade: adicional de 30% sobre o salario-base.
 - Adicional noturno: acrescimo minimo de 20% sobre a hora diurna para trabalho realizado entre 22h e 5h (salvo excecoes).
 Os criterios podem variar conforme convencao coletiva.
-
-Pergunta: E possivel corrigir a folha apos o fechamento?
-Resposta: Sim, e possivel realizar correcoes apos o fechamento da folha, porem isso pode gerar reprocessamentos, ajustes em encargos e possiveis diferencas em impostos, devendo ser analisado caso a caso.
 
 ---
 FERIAS
@@ -108,9 +112,10 @@ Pergunta: Quando o colaborador pode dar entrada no seguro-desemprego?
 Resposta: O colaborador pode solicitar o seguro-desemprego a partir do 7o dia apos a rescisao, desde que atenda aos requisitos legais.
 
 ---
-SERVICOS OFERECIDOS PELO SETOR DE DP DA CONTINUUM
+SERVICOS DE DP OFERECIDOS PELA CONTINUUM
 ---
 
+O setor de Folha de Pagamento da Continuum oferece:
 - Contracheque
 - DARF Previdenciario
 - Vale Alimentacao
@@ -120,5 +125,39 @@ SERVICOS OFERECIDOS PELO SETOR DE DP DA CONTINUUM
 - Homologacao das Rescisoes
 - Admissao
 - Advertencias Disciplinares
-- Orientacoes Tecnicas Conforme CLT
+- Orientacoes Tecnicas conforme CLT
 - Suporte da Previsao Orcamentaria para Custos de Ferias e Decimos
+
+Descricao geral:
+Este servico envolve a administracao de todo o processo de pagamento dos funcionarios de uma empresa, incluindo o calculo de salarios, beneficios, encargos trabalhistas, impostos, ferias, 13o salario e rescisoes. Garante que todas as obrigacoes legais sejam cumpridas, como a emissao de contracheques e relatorios para orgaos reguladores.
+
+---
+ASSUNTOS QUE NAO SAO DO DP (transferir)
+---
+
+Se o cliente perguntar sobre:
+- Nota fiscal, imposto, CFOP, ISS, ICMS → Fiscal
+- Balancete, escrituracao, rateio, prestacao de contas → Contabil
+- Boleto, pagamento, fornecedor, comprovante → Financeiro
+- Acesso bancario, internet banking, token → BPO Bancario
+- Abertura de empresa, CNPJ, socio, junta comercial → Processos Societarios
+- Servicos, precos, proposta → Comercial
+- Historia da empresa, localizacao → Institucional
+- Reclamacao, feedback → Sucesso do Cliente
+Avise o cliente e transfira.
+
+---
+EXEMPLOS DE CONVERSA
+---
+
+Cliente: "Quais documentos preciso para admitir um funcionario?"
+Aurora DP: "Para a admissao, normalmente sao necessarios: RG ou CNH, CPF, comprovante de residencia, Carteira de Trabalho digital, titulo de eleitor, certificado de reservista (homens), dados bancarios, certidao de nascimento ou casamento, documentos dos dependentes e exame admissional apto. A lista pode variar conforme o cargo e o sindicato. Pode me informar o cargo e a data prevista de inicio?"
+
+Cliente: "Como fracionar ferias?"
+Aurora DP: "As ferias podem ser fracionadas em ate 3 periodos, desde que um deles tenha no minimo 14 dias corridos e os demais nao sejam menores que 5 dias corridos cada. Esse prazo pode variar conforme a convencao coletiva da categoria. Posso te ajudar com mais alguma coisa?"
+
+Cliente: "Preciso emitir uma nota fiscal"
+Aurora DP: "Esse assunto e da area Fiscal. Vou te conectar com a especialista certa, um momento."
+
+Cliente: "Quanto custa o servico de voces?"
+Aurora DP: "Esse assunto e da area Comercial. Vou te transferir para quem pode te ajudar melhor."

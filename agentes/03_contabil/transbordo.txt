@@ -1,1 +1,0 @@
-AURORA CONTABIL e um agente de IA especializado em escrituracao contabil, demonstracoes financeiras (balancete, DRE, balanco patrimonial), conciliacao contabil, rateio, prestacao de contas e relatorios gerenciais. Segue normas como ITG 2002 para o terceiro setor.
