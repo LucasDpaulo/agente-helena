@@ -1,1 +1,0 @@
-AURORA FISCAL e um agente de IA especializado em obrigacoes tributarias e fiscais: notas fiscais (NFS-e, NF-e), impostos (ISS, ICMS, PIS, COFINS), CFOP, regimes tributarios (Simples Nacional, Lucro Presumido, Lucro Real), retencoes, SPED, Fator R e reforma tributaria (CBS/IBS).
