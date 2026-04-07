@@ -1,0 +1,151 @@
+============================================================
+BASE DE CONHECIMENTO 02 — FISCAL
+(Colar na base de conhecimento do agente Aurora Fiscal)
+============================================================
+
+---
+NOTA FISCAL DE SERVICO (NFSe)
+---
+
+Pergunta: Quais informacoes sao obrigatorias para emissao de Nota Fiscal de Servico (NFSe)?
+Resposta: Para emissao da NFS-e, normalmente sao obrigatorias:
+- Dados do prestador (CNPJ, razao social e inscricao municipal)
+- Dados do tomador (CPF ou CNPJ, nome/razao social e endereco)
+- Codigo do servico (Lista de Servicos do ISS)
+- Descricao do servico prestado
+- Valor do servico
+- Municipio de incidencia do ISS
+- Aliquota do ISS (quando aplicavel)
+- Data da prestacao do servico.
+
+Pergunta: Quais codigos de servico (Lista de Servicos do ISS) devem ser utilizados?
+Resposta: Devem ser utilizados os codigos previstos na Lista de Servicos da Lei Complementar no 116/2003, conforme a atividade efetivamente exercida pela empresa.
+
+Pergunta: O servico e tributado no municipio do prestador ou do tomador?
+Resposta: Via de regra, o ISS e devido no municipio do prestador. Entretanto, a legislacao preve excecoes, nas quais o imposto e devido no municipio do tomador, conforme o tipo de servico prestado.
+
+---
+NOTA FISCAL DE COMERCIO (NFe)
+---
+
+Pergunta: Desejo emitir Nota Fiscal de Comercio (NF-e). Qual o procedimento padrao?
+Resposta: Para emissao da NF-e, a empresa deve:
+- Estar com o CNPJ ativo e regular
+- Possuir inscricao estadual (quando exigida)
+- Ter certificado digital valido
+- Estar credenciada na SEFAZ do estado
+- Emitir a nota por sistema autorizado, informando produtos, CFOP, impostos e dados do destinatario.
+
+Pergunta: Quais impostos incidem na Nota Fiscal de Comercio?
+Resposta: Normalmente incidem:
+- ICMS
+- IPI (quando aplicavel)
+- PIS e COFINS
+- ICMS-ST, quando houver substituicao tributaria.
+A incidencia depende do produto, da operacao e do regime tributario.
+
+Pergunta: Existe obrigatoriedade de emissao de nota para pessoa fisica?
+Resposta: Sim. Em regra, a emissao de nota fiscal e obrigatoria, independentemente de o cliente ser pessoa fisica ou juridica, salvo excecoes previstas em legislacao especifica.
+
+Pergunta: A empresa pode emitir nota fiscal sem contrato formal? Quais os riscos fiscais?
+Resposta: A emissao pode ocorrer sem contrato formal, porem a ausencia de contrato aumenta o risco de:
+- Questionamentos fiscais
+- Dificuldade de comprovacao da operacao
+- Glosas e autuacoes.
+Recomenda-se sempre formalizar a relacao contratual.
+
+---
+CFOP
+---
+
+Pergunta: Qual CFOP deve ser utilizado em cada tipo de operacao?
+Resposta: CFOP varia conforme a natureza da operacao e a localizacao do destinatario. Exemplos comuns:
+- Venda de mercadoria: CFOP de venda (ex.: 5.xxx ou 6.xxx)
+- Devolucao: CFOP especifico de devolucao
+- Bonificacao: CFOP proprio de bonificacao
+- Remessa: CFOP de remessa sem faturamento.
+A escolha incorreta do CFOP pode gerar inconsistencias fiscais.
+
+---
+REGIMES TRIBUTARIOS E SIMPLES NACIONAL
+---
+
+Pergunta: A empresa esta enquadrada em qual regime tributario e como isso impacta a emissao da nota?
+Resposta: O regime tributario (Simples Nacional, Lucro Presumido ou Lucro Real) define:
+- Quais impostos incidem na nota
+- Se havera destaque de tributos
+- Forma de recolhimento dos impostos.
+A confirmacao do regime deve ser validada no cadastro da empresa.
+
+Pergunta: O faturamento dos ultimos 12 meses (RBT12) esta em qual faixa?
+Resposta: Essa informacao depende da analise do faturamento acumulado dos ultimos 12 meses e da atividade exercida.
+
+Pergunta: Servico: esta no Anexo III, IV ou V?
+Resposta: O enquadramento no Anexo depende da atividade economica (CNAE) e, em alguns casos, da aplicacao do Fator R.
+
+Pergunta: Qual e o RBT12 atualizado?
+Resposta: O RBT12 corresponde a soma das receitas brutas dos ultimos 12 meses e deve ser apurado mensalmente.
+
+Pergunta: A atividade pode usar Fator R?
+Resposta: Sim, desde que a atividade esteja enquadrada e que a folha de pagamento represente 28% ou mais da receita bruta, conforme regras do Simples Nacional.
+
+Pergunta: Minha empresa foi excluida do Simples Nacional. O que acontece agora?
+Resposta: Quando a empresa e excluida do Simples Nacional, ela deixa de recolher os tributos de forma unificada e passa a ser tributada por outro regime, conforme seu enquadramento legal.
+Os principais impactos sao:
+- Novo regime tributario: a empresa passa a ser tributada pelo Lucro Presumido ou Lucro Real, dependendo do porte, atividade e faturamento.
+- Mudanca na apuracao: os tributos passam a ser apurados separadamente (IRPJ, CSLL, PIS, COFINS, ISS ou ICMS).
+- Novas obrigacoes acessorias: EFD-Contribuicoes, DCTF, ECF, ECD (em alguns casos).
+- Impacto no custo tributario: a carga pode aumentar ou diminuir, necessitando analise individualizada.
+- Data de efeitos: se por debitos, retroativo a 1o de janeiro do ano da exclusao. Se por opcao, a partir do mes seguinte.
+- Possibilidade de regularizacao: regularizar pendencias e solicitar reingresso no proximo periodo de opcao.
+Alerta tecnico: a exclusao exige reavaliacao imediata do planejamento tributario. Recomenda-se analise contabil para definir o regime mais adequado.
+
+---
+RETENCOES
+---
+
+Pergunta: Quais sao as retencoes destacadas nas notas fiscais?
+Resposta: Podem ocorrer retencoes como:
+- INSS
+- IRRF
+- PIS, COFINS e CSLL
+- ISS (em casos especificos).
+A retencao depende do tipo de servico e do tomador.
+
+---
+REFORMA TRIBUTARIA (CBS/IBS)
+---
+
+Pergunta: Minha empresa vai pagar mais ou menos imposto com CBS/IBS?
+Resposta: Essa analise depende do perfil da empresa, tipo de operacao e cadeia de creditos.
+
+Pergunta: Meus servicos tributados por ISS vao migrar para IBS?
+Resposta: A migracao esta prevista na Reforma Tributaria, porem as aliquotas finais ainda dependem de regulamentacao.
+
+Pergunta: Vou poder tomar credito integral dos tributos pagos nas compras?
+Resposta: O sistema CBS/IBS preve credito amplo, porem algumas despesas podem nao gerar credito, conforme regulamentacao.
+
+Pergunta: Vou precisar destacar CBS/IBS nas notas?
+Resposta: Sim, apos a implementacao completa do novo sistema, o destaque dos tributos sera obrigatorio, conforme regras a serem definidas.
+
+---
+SERVICOS OFERECIDOS PELO SETOR FISCAL DA CONTINUUM
+---
+
+- Apuracao de Impostos Retidos
+- Encerramento do ISS / Gissonline
+- Emissao de DARF'S de Retencao
+- Emissao de CND'S Mensalmente
+- Adesao a Parcelamentos
+- Emissao de Guias de Parcelamentos
+- Controle de Documentos Fiscais atraves de livros fiscais
+
+---
+LEGISLACAO DE REFERENCIA
+---
+
+- Lei no 5.172, de 25 de outubro de 1966
+- Lei complementar no 123/2006
+- Instrucao Normativa da Receita Federal no 2.278/2025
+- Lei complementar no 213/2025
+- Lei Complementar no 116/2003 (Lista de Servicos do ISS)

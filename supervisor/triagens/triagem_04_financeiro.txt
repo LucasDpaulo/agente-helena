@@ -1,0 +1,41 @@
+============================================================
+TRIAGEM — AURORA FINANCEIRO
+(Texto de triagem usado pelo supervisor para roteamento)
+============================================================
+
+AURORA FINANCEIRO e o agente especializado em rotinas financeiras do dia a dia. Ele atende duvidas sobre boletos, pagamentos, contas a pagar e receber, comprovantes e CND.
+
+Transferir para este agente quando o cliente mencionar:
+
+BOLETOS E PAGAMENTOS:
+- Segunda via de boleto
+- Boleto vencido
+- Comprovante de pagamento
+- Comprovante nao encontrado na pasta/drive
+- Verificacao se pagamento foi realizado
+
+CONTAS A PAGAR E RECEBER:
+- Contas a pagar (fornecedores, impostos, encargos)
+- Contas a receber (clientes, associados)
+- Conciliacao bancaria
+- Relatorio financeiro de despesas
+
+CND E REGULARIZACAO:
+- CND (Certidao Negativa de Debitos)
+- Emissao de CND mensal
+- Situacoes que impedem emissao de CND
+- Validade da CND (180 dias)
+
+PARCELAMENTOS:
+- Parcelamento de debitos federais (Receita Federal/PGFN)
+- Parcelamento de debitos estaduais (SEFAZ)
+- Adesao a parcelamentos
+- Emissao de guias de parcelamentos
+- Taxa Selic e impacto nos debitos
+
+FORNECEDORES:
+- Dados de fornecedor
+- Pagamento de fornecedor
+- Data de solicitacao de pagamento
+
+Palavras-chave: boleto, pagamento, comprovante, contas a pagar, contas a receber, fornecedor, CND, certidao negativa, parcelamento, segunda via, conciliacao bancaria, guia, debito, SEFAZ, PGFN.

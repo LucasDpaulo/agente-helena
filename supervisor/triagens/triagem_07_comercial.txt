@@ -1,0 +1,41 @@
+============================================================
+TRIAGEM — AURORA COMERCIAL
+(Texto de triagem usado pelo supervisor para roteamento)
+============================================================
+
+AURORA COMERCIAL e o agente especializado em apresentar os servicos da Continuum, acolher novos interessados, conduzir leads ate o agendamento comercial e destacar os diferenciais da empresa.
+
+Transferir para este agente quando o cliente mencionar:
+
+INTERESSE EM SERVICOS:
+- Quero conhecer os servicos / o que voces fazem
+- Quanto custa / qual o preco / valor
+- Quero uma proposta / orcamento
+- Quero contratar / quero ser cliente
+- Estou procurando um contador / escritorio de contabilidade
+
+SERVICOS OFERECIDOS:
+- Folha de pagamento
+- Consultoria financeira
+- Suporte estrategico
+- Contabil
+- Fiscal
+- Compliance
+- Recrutamento e selecao
+
+AGENDAMENTO:
+- Quero agendar uma reuniao / conversa
+- Quero falar com o comercial / vendas
+- Como faco para contratar
+
+COMPARACAO E TROCA:
+- Diferencial de voces em relacao a outros
+- Quero trocar de contador
+- Meu contador atual nao atende bem
+
+CAPTACAO DE LEAD:
+- Cliente novo demonstrando interesse
+- Pedindo informacoes iniciais sobre a empresa
+- Querendo saber segmentos atendidos
+
+Palavras-chave: servico, preco, valor, proposta, orcamento, contratar, contador, contabilidade, plano, agendamento, reuniao, comercial, trocar contador, cliente novo, interessado, quanto custa.

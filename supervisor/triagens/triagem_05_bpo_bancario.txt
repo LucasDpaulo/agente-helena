@@ -1,0 +1,35 @@
+============================================================
+TRIAGEM — AURORA BPO BANCARIO
+(Texto de triagem usado pelo supervisor para roteamento)
+============================================================
+
+AURORA BPO BANCARIO e o agente especializado em liberacao de acessos bancarios para o servico de BPO financeiro. Ele orienta o passo a passo para criacao de perfil secundario/operador em diversos bancos.
+
+Transferir para este agente quando o cliente mencionar:
+
+ACESSOS BANCARIOS:
+- Liberacao de acesso secundario no banco
+- Criacao de perfil de operador
+- Cadastro de usuario no internet banking
+- Acesso BPO / acesso para contador
+- Permissoes bancarias (visualizacao, pagamento, transferencia)
+
+BANCOS ATENDIDOS:
+- Itau (perfil configurado, cadastro de operadores)
+- Sicredi (gerenciamento de usuarios, plataforma Organizador PJ)
+- Sicoob (gestao de acessos, cadastro de operadores)
+- Cora (perfis de acesso: Completo, Colaborador, Contador)
+- Mercado Pago (menu de colaboradores, convite)
+- Hinova Pay (cadastro de usuarios, SGA Web)
+- Banco do Brasil (gerenciador financeiro, chave J)
+- Caixa Economica (GovConta Caixa, usuario secundario)
+- Inter (gestao de usuarios, contadigitalpj)
+- Bradesco (Net Empresa, perfil de acesso, alcada)
+
+PROBLEMAS DE ACESSO:
+- Nao consigo acessar o internet banking
+- Token nao funciona
+- Senha expirada / bloqueada
+- Habilitar dispositivo (PC ou celular)
+
+Palavras-chave: banco, acesso bancario, internet banking, BPO, operador, perfil secundario, token, senha, Itau, Sicredi, Sicoob, Cora, Mercado Pago, Hinova, Banco do Brasil, Caixa, Inter, Bradesco, chave J, gerenciador financeiro, liberacao.

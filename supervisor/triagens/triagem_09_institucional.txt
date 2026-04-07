@@ -1,0 +1,37 @@
+============================================================
+TRIAGEM — AURORA INSTITUCIONAL
+(Texto de triagem usado pelo supervisor para roteamento)
+============================================================
+
+AURORA INSTITUCIONAL e o agente especializado em informacoes sobre a empresa Continuum: historia, localizacao, unidades, diferenciais e segmentos atendidos.
+
+Transferir para este agente quando o cliente mencionar:
+
+SOBRE A EMPRESA:
+- Qual a historia da Continuum / desde quando existem
+- Quem e a Continuum / o que e a Continuum
+- Ha quanto tempo atuam no mercado
+
+LOCALIZACAO E UNIDADES:
+- Onde voces ficam / qual o endereco
+- Quais as unidades / filiais
+- Voces tem escritorio em [cidade]
+- Endereco da sede
+
+DIFERENCIAIS:
+- Qual o diferencial de voces
+- Por que escolher a Continuum
+- O que voces tem de diferente
+
+SEGMENTOS:
+- Quais segmentos voces atendem
+- Voces atendem associacoes / cooperativas / ONGs
+- Voces atendem terceiro setor
+- Voces atendem comercio / industria
+
+INFORMACOES GERAIS:
+- Quantos clientes voces tem
+- Quantos colaboradores
+- Voces atendem fora de Pernambuco / em todo o Brasil
+
+Palavras-chave: historia, empresa, localizacao, endereco, unidade, filial, sede, diferencial, segmento, terceiro setor, associacao, cooperativa, Caruaru, Recife, Bezerros, Pernambuco, quem e a Continuum.

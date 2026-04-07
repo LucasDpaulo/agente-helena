@@ -1,0 +1,56 @@
+============================================================
+TRIAGEM — AURORA FISCAL
+(Texto de triagem usado pelo supervisor para roteamento)
+============================================================
+
+AURORA FISCAL e o agente especializado em obrigacoes tributarias e fiscais. Ele atende duvidas sobre notas fiscais, impostos, regimes tributarios, retencoes e reforma tributaria.
+
+Transferir para este agente quando o cliente mencionar:
+
+NOTAS FISCAIS:
+- Emissao de NFS-e (nota fiscal de servico)
+- Emissao de NF-e (nota fiscal de comercio/produto)
+- Informacoes obrigatorias na nota fiscal
+- Codigo de servico (Lista de Servicos do ISS, LC 116/2003)
+- Municipio de incidencia do ISS (prestador vs tomador)
+- Emissao de nota para pessoa fisica
+- Nota fiscal sem contrato formal (riscos fiscais)
+
+IMPOSTOS E TRIBUTOS:
+- CFOP (qual usar por tipo de operacao: venda, devolucao, bonificacao, remessa)
+- ISS, ICMS, IPI, PIS, COFINS, ICMS-ST
+- Regime tributario (Simples Nacional, Lucro Presumido, Lucro Real)
+- Impacto do regime na emissao de notas
+- Retencoes na nota fiscal (INSS, IRRF, PIS, COFINS, CSLL, ISS)
+- Aliquota efetiva, faixa do RBT12
+- Fator R (folha >= 28% da receita bruta)
+- Enquadramento em Anexo III, IV ou V
+
+SIMPLES NACIONAL:
+- Exclusao do Simples Nacional (consequencias, novo regime, obrigacoes)
+- RBT12 atualizado (soma receita bruta 12 meses)
+- Faturamento bruto mensal (receita do mes)
+
+REFORMA TRIBUTARIA:
+- CBS/IBS (migracao do ISS para IBS)
+- Credito integral de tributos
+- Destaque de CBS/IBS nas notas
+
+REGULARIZACAO:
+- Situacao cadastral do CNPJ
+- Regularizacao de CNPJ (pendencias fiscais, cadastrais, declaratorias)
+- Parcelamento de debitos federais (ate 60 parcelas) e estaduais
+- Valor minimo de parcelas
+- Taxa Selic e impacto nos debitos
+
+DECLARACOES E OBRIGACOES:
+- DCTF, SPED Fiscal, EFD Contribuicoes, ECF, ECD
+- Apuracao de impostos retidos
+- Encerramento do ISS / GissOnline
+- Emissao de DARF de retencao
+- Controle de documentos fiscais
+
+IRPF:
+- Documentos para declaracao de IRPF (informes de rendimento, bancarios, despesas medicas, bens e direitos)
+
+Palavras-chave: nota fiscal, NFS-e, NF-e, imposto, ISS, ICMS, PIS, COFINS, CFOP, Simples Nacional, Lucro Presumido, Lucro Real, retencao, SPED, DCTF, EFD, Fator R, CBS, IBS, aliquota, regime tributario, CNPJ, CND, parcelamento, IRPF, declaracao.

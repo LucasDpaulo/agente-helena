@@ -1,0 +1,47 @@
+============================================================
+TRIAGEM — AURORA DEPARTAMENTO PESSOAL
+(Texto de triagem usado pelo supervisor para roteamento)
+============================================================
+
+AURORA DEPARTAMENTO PESSOAL e o agente especializado em rotinas trabalhistas e gestao de pessoas. Ele atende duvidas relacionadas a admissao, folha de pagamento, ferias, rescisao, eSocial e obrigacoes trabalhistas.
+
+Transferir para este agente quando o cliente mencionar:
+
+ADMISSAO:
+- Documentos para admissao, contratacao de funcionario
+- Prazo para envio de documentacao admissional
+- Exame admissional, ASO
+- Registro no eSocial, evento de admissao
+- Alteracao de data de admissao
+
+FOLHA DE PAGAMENTO:
+- Contracheque, holerite, salario
+- Horas extras (calculo, limite legal, percentuais)
+- Adicionais (insalubridade, periculosidade, noturno)
+- Banco de horas, compensacao
+- Correcao de folha apos fechamento
+- Prazo para envio de horas extras, faltas e adicionais
+- DARF previdenciario, PIS sobre folha
+
+FERIAS:
+- Solicitacao de ferias, prazo minimo (30 dias antecedencia)
+- Fracionamento de ferias (ate 3 periodos)
+- Abono pecuniario (venda de 1/3)
+- Ferias vencidas, periodo concessivo
+- Pagamento em dobro por ferias nao concedidas
+
+RESCISAO:
+- Tipos de rescisao (pedido, sem justa causa, justa causa, acordo, prazo determinado)
+- Aviso previo (trabalhado vs indenizado)
+- Prazo para pagamento de verbas rescisorias (10 dias)
+- Seguro-desemprego (a partir do 7o dia)
+- Homologacao de rescisoes
+
+BENEFICIOS E ENCARGOS:
+- Vale alimentacao, vale transporte
+- FGTS, INSS, contribuicao sindical
+- Advertencias disciplinares
+- Orientacoes tecnicas conforme CLT
+- Previsao orcamentaria de ferias e decimos
+
+Palavras-chave: funcionario, empregado, CLT, admissao, demissao, ferias, folha, salario, rescisao, horas extras, banco de horas, FGTS, INSS, eSocial, contracheque, aviso previo, seguro desemprego, insalubridade, periculosidade, noturno, vale transporte, vale alimentacao.

@@ -1,0 +1,49 @@
+============================================================
+BASE DE CONHECIMENTO 03 — CONTABIL
+(Colar na base de conhecimento do agente Aurora Contabil)
+============================================================
+
+---
+DOCUMENTACAO CONTABIL
+---
+
+Pergunta: Quais documentos sao necessarios para enviar ao Departamento Contabil?
+Resposta: Notas fiscais do mes, todos os extratos bancarios da associacao, relatorio financeiro de despesas, identificando todas as saidas do mes.
+
+Pergunta: Qual o prazo para envio da documentacao contabil?
+Resposta: O prazo para envio da documentacao contabil mensal e ate o dia 05 do mes seguinte. Exemplo: a movimentacao referente ao mes de janeiro deve ser enviada ate o dia 05 de fevereiro, e assim por diante.
+
+---
+RATEIO
+---
+
+Pergunta: O que e rateio?
+Resposta: O rateio e o calculo que define quanto cada associado contribui para cobrir os eventos ocorridos no periodo (sinistros, despesas administrativas, reservas, etc.). Ele garante o equilibrio financeiro da associacao.
+
+Pergunta: Quem e o responsavel por desenvolver questoes de rateio?
+Resposta: O responsavel por desenvolver o rateio e o atuario, o papel desse profissional e desenvolver um calculo tecnico/atuarial.
+
+---
+IMPOSTO DE RENDA PESSOA FISICA
+---
+
+Pergunta: Quais documentos preciso enviar para declaracao de Imposto de Renda Pessoa Fisica?
+Resposta: Para a declaracao do IRPF, normalmente sao necessarios:
+- Informes de rendimentos (salarios, pro-labore, aposentadoria)
+- Informes bancarios
+- Comprovantes de despesas medicas e educacionais
+- Dados de bens e direitos
+A lista pode variar conforme o perfil do contribuinte.
+
+---
+SERVICOS OFERECIDOS PELO SETOR CONTABIL DA CONTINUUM
+---
+
+Descricao geral:
+O servico contabil abrange a escrituracao contabil, elaboracao de demonstracoes financeiras (balanco patrimonial, demonstracao de resultados, fluxo de caixa, etc.), analise de indicadores financeiros e relatorios gerenciais. A contabilidade e fundamental para fornecer informacoes precisas sobre a saude financeira da empresa e auxiliar na tomada de decisoes estrategicas.
+
+Servicos especificos:
+- Escrituracao contabil conforme ITG 2002
+- Elaboracao de balancete mensal e disponibilizacao para as AGE e AGO
+- Balanco patrimonial anual junto a prestacao de contas
+- Laudo e notas explicativas trimestral para ser anexo nas prestacoes de contas

@@ -1,0 +1,145 @@
+============================================================
+BASE DE CONHECIMENTO 05 — BPO BANCARIO
+(Colar na base de conhecimento do agente Aurora BPO Bancario)
+============================================================
+
+---
+PERGUNTA INICIAL DE ROTEAMENTO
+---
+
+Pergunta: Como faco para realizar a liberacao do acesso secundario na minha conta bancaria para o BPO?
+Resposta: Por favor, informe o banco o qual deseja realizar a liberacao:
+1 - Itau
+2 - Sicredi
+3 - Sicoob
+4 - Cora
+5 - Mercado Pago
+6 - Hinova Pay
+7 - Banco do Brasil
+8 - Caixa Economica
+9 - Inter
+10 - Bradesco
+11 - Outros
+
+---
+ITAU
+---
+
+Passo a passo para liberacao da conta secundaria no banco Itau:
+
+1 - Criar um perfil:
+- Clicar em "perfil configurado do inicio"
+- Selecionar o tipo de permissao "Operador"
+- Em seguida selecione uma sugestao de perfil pre configurada chamada "Perfil Visualizacao"
+- Adicione a descricao: "Perfil de acesso - BPO"
+- Confirme e sera aberta uma pagina de cadastro
+
+2 - Cadastro dos Operadores:
+- Clique em "Cadastrar operadores"
+- Selecione o tipo de documento CPF e informe os dados cadastrais de alguem da equipe BPO.
+- O seu atendimento sera redirecionado para que alguem da equipe possa fornecer os dados cadastrais.
+
+---
+SICREDI
+---
+
+1. Logar como Administrador: Acesse a plataforma Organizador PJ com suas credenciais de gestor.
+2. Gerenciar Usuarios: Clique no icone de perfil, selecione "Empresa" e depois em "Gerenciamento de usuarios".
+3. Adicionar Novo: Clique em "Adicionar Novo Usuario".
+4. Preencher Dados: Insira Nome, Sobrenome, E-mail de acesso (fundamental), CPF, Data de Nascimento e Celular.
+5. Configurar Acessos: Defina o nivel de acesso (ex: Contador, Financeiro) e selecione as contas/empresas que o novo usuario podera visualizar.
+6. Finalizar: Clique em "Criar Usuario".
+7. Primeiro Acesso do Usuario: O novo usuario recebera um e-mail para definir sua propria senha via web ou app.
+
+---
+SICOOB
+---
+
+1. Acesso Master: Faca login no Internet Banking do Sicoob utilizando a conta master.
+2. Menu de Gestao: Selecione a opcao "Outras Opcoes" no menu principal.
+3. Cadastro de Operadores: Clique em "Gestao de Acessos" e, em seguida, em "Cadastro de Operadores".
+4. Adicionar/Consultar: Clique em "Consultar usuarios" para verificar ou incluir um novo operador.
+5. Configurar Permissoes: Selecione a chave de acesso do novo usuario e clique em "Permissoes".
+6. Definir Limites: Marque as funcionalidades (consultas, pagamentos, transferencias) que o operador podera realizar.
+7. Salvar: Clique em "Salvar" para aplicar as permissoes.
+
+---
+CORA
+---
+
+1. Acesse o App: Abra o aplicativo Cora e va para o menu "Conta".
+2. Perfis de Acesso: Clique em "Perfis de acesso" e depois no botao "Comecar".
+3. Tipo de Acesso: Escolha entre Completo (socios), Colaborador (financeiro) ou Contador.
+4. Dados: Insira o nome e o e-mail da pessoa que recebera o acesso.
+5. Permissoes: Selecione quais atividades o usuario pode realizar (ex: apenas saldo e extrato para contador, ou pagamentos para colaboradores).
+6. Finalizar: Revise os dados, clique em "Aceitar e continuar" e insira sua senha de transacao para confirmar.
+
+---
+MERCADO PAGO
+---
+
+1. Acesse sua Conta: Faca login no site do Mercado Pago.
+2. Menu de Colaboradores: No menu principal, va em "Seu negocio" e selecione a opcao "Colaboradores".
+3. Convidar: Clique no botao "Convidar colaborador".
+4. Dados do Acesso: Digite o e-mail da pessoa que sera o usuario secundario. Atencao: Esse e-mail nao pode estar cadastrado no Mercado Pago ou Mercado Livre.
+5. Definir Permissoes: Crie uma "funcao" (ex: "Caixa" ou "Vendedor") e selecione quais tarefas a pessoa pode realizar (receber pagamentos, gerenciar estoque, ver relatorios, etc.).
+6. Enviar Convite: Finalize o processo clicando em enviar.
+7. Aceite do Colaborador: O colaborador recebera um e-mail e precisara aceitar o convite para configurar sua propria senha e iniciar o uso.
+
+---
+HINOVA PAY
+---
+
+1. Acesse o sistema via Web: Faca login na plataforma Hinova com as credenciais do usuario Master/Administrador.
+2. Acesse o Menu de Usuarios: No menu principal, procure pela area de Configuracoes, Gestao ou SGA Web. Selecione a opcao "Usuarios" ou "Cadastro de Usuarios".
+3. Adicionar Novo Usuario: Clique no botao para adicionar. Preencha: Nome completo, E-mail, CPF e Celular. Defina um nome de usuario (ex: nome.sobrenome).
+4. Configurar Permissoes (Crucial): Marque ou desmarque o que o usuario secundario pode fazer. Permissoes comuns: realizar transferencias, consultar saldo/extrato, emitir boletos. Defina se sera apenas "visualizador" ou se podera "autorizar" transacoes.
+5. Finalizar e Ativar: Clique em "Salvar". O sistema enviara um e-mail com instrucoes para o novo usuario ativar o acesso e criar sua propria senha.
+
+---
+BANCO DO BRASIL
+---
+
+1. Acesse o Gerenciador Financeiro: Acesse o site do Banco do Brasil e selecione "Conta da Sua Empresa".
+2. Cadastrar/Gerenciar Usuario: No menu do Gerenciador, va em "Gestao Agil" e depois "Gerenciar Usuarios" para adicionar um novo usuario e gerar sua chave J.
+3. Autorizar Acessos: Selecione o usuario (chave J) e autorize as transacoes, contas e limites especificos que ele podera operar.
+4. Habilitar Dispositivo:
+   - Computador: No site, acesse "Minha Seguranca" > "Cadastramento de Computadores" para registrar a maquina.
+   - Celular: No App BB, va em Perfil > "Desbloquear aplicativo" e siga as instrucoes para autorizar via SMS ou caixa eletronico.
+5. Primeiro Acesso (Usuario Secundario): Utilize a senha provisoria fornecida pela agencia ou gerada no cadastro, e crie uma nova senha de 6 (conta) e 8 digitos (internet).
+
+---
+CAIXA ECONOMICA
+---
+
+1. Acesso Master: Faca login no GovConta Caixa com o usuario Master.
+2. Menu de Cadastro: Selecione a opcao "Cadastro de Usuario" na tela inicial.
+3. Incluir Usuario: Preencha os dados obrigatorios do novo usuario (email, CPF, Nome, etc.).
+4. Tipo de Acesso: No campo de tipo de usuario, selecione "Secundario".
+5. Configurar Perfil:
+   - Acesso Total: Se quiser que o secundario acesse todas as contas, selecione "Sim".
+   - Acesso Restrito: Selecione "Nao" e, em seguida, em "Perfil do Usuario", selecione especificamente quais contas e servicos (ex: consultar, assinar) o novo usuario tera permissao.
+6. Finalizacao: Confirme o cadastro. O usuario secundario nao pode cadastrar outros usuarios.
+
+---
+INTER
+---
+
+1. Acesse: Entre no site contadigitalpj.bancointer.com.br com sua conta Master.
+2. Menu de Gestao: Clique no icone de engrenagem (canto superior direito) e selecione "Gestao de Usuarios".
+3. Novo Usuario: Clique no botao "Novo".
+4. Dados: Preencha Nome, CPF, E-mail, Celular e a data limite de vigencia do acesso.
+5. Permissoes: Em "Adicionar Grupo", insira a Razao Social da empresa e selecione o perfil de acesso desejado.
+6. Finalizar: Clique em "Salvar".
+
+---
+BRADESCO
+---
+
+1. Acesse como Master: Entre no Bradesco Net Empresa com o perfil Master.
+2. Criar Perfil de Acesso: Va no menu "Administracao" e selecione "Incluir Perfis de Acesso".
+3. Definir Permissoes: Nomeie o perfil e selecione as permissoes (ex: Contas, Carteiras, Operacoes). Marque "Consulta" e/ou "Inclusao" conforme necessario.
+4. Configurar Alcada: No campo "Autorizacoes e Alcada", defina se o usuario pode aprovar transacoes (geralmente, usuarios secundarios nao tem alcada alta ou nenhuma).
+5. Incluir Usuario: Apos criar o perfil, va em "Administracao" > "Incluir Usuarios".
+6. Dados do Usuario: Preencha com o CPF, nome e crie uma senha inicial. Selecione o perfil de acesso criado no passo anterior.
+7. Finalizacao: O novo usuario deve acessar o Bradesco Net Empresa com suas novas credenciais para ativar o acesso.

@@ -1,0 +1,11 @@
+# Claude Code
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Arquivos antigos (mantidos como backup local)
+agentes/Agente_Cuntinuum_01/
+agentes/aurora_.zip
+agentes/*.pdf

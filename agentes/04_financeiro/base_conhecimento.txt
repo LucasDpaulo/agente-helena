@@ -1,0 +1,70 @@
+============================================================
+BASE DE CONHECIMENTO 04 — FINANCEIRO
+(Colar na base de conhecimento do agente Aurora Financeiro)
+============================================================
+
+---
+COMPROVANTES E PAGAMENTOS
+---
+
+Pergunta: Nao encontrei o comprovante de pagamento na pasta do drive. Voce pode verificar se o pagamento foi realizado?
+Resposta: Por favor, informe os detalhes da sua solicitacao:
+- E-mail:
+- Valor:
+- Fornecedor:
+- Data da solicitacao:
+
+---
+CERTIDAO NEGATIVA DE DEBITOS (CND)
+---
+
+Pergunta: O que e a CND?
+Resposta: A CND (Certidao Negativa de Debitos) comprova que a empresa nao possui pendencias fiscais ou que estas estao regularizadas.
+
+Pergunta: Em quais situacoes a empresa fica impedida de emitir CND?
+Resposta: Quando existem debitos em aberto, obrigacoes acessorias nao entregues ou irregularidades cadastrais.
+
+Pergunta: Por quanto tempo a CND e valida?
+Resposta: Em regra, a CND tem validade de 180 dias, salvo excecoes.
+
+---
+PARCELAMENTOS
+---
+
+Pergunta: Quantas parcelas sao permitidas para parcelamento de debitos federais e estaduais?
+Resposta:
+- Debitos federais: geralmente ate 60 parcelas, podendo variar conforme modalidade.
+- Debitos estaduais: regras variam conforme a SEFAZ de cada estado.
+
+Pergunta: Qual e o valor minimo das parcelas nos parcelamentos federais e estaduais?
+Resposta: O valor minimo depende do orgao e da modalidade de parcelamento vigente.
+
+---
+TAXA SELIC
+---
+
+Pergunta: O que e a Taxa Selic e como ela impacta meus debitos?
+Resposta: A Taxa Selic e o indice utilizado para atualizacao de debitos fiscais, impactando juros e o valor final a pagar.
+
+---
+REGULARIZACAO DE CNPJ
+---
+
+Pergunta: Qual e a situacao cadastral do CNPJ hoje?
+Resposta: A situacao cadastral precisa ser consultada no site da Receita Federal.
+
+Pergunta: Quero regularizar meu CNPJ. Qual e o plano de acao completo?
+Resposta: A regularizacao envolve analise de pendencias fiscais, cadastrais e declaratorias, com definicao de etapas, prazos e prioridades.
+
+---
+SERVICOS OFERECIDOS PELO SETOR FINANCEIRO DA CONTINUUM
+---
+
+Descricao geral:
+O servico de Consultoria Financeira oferece orientacao especializada para empresas ou individuos na gestao de suas financas. Inclui analise financeira, planejamento orcamentario, gestao de fluxo de caixa, investimentos, avaliacao de riscos e estrategias para otimizacao de recursos financeiros.
+
+Servicos especificos:
+- Boletos
+- Contas a pagar
+- Contas a receber
+- Segunda via de documentos financeiros

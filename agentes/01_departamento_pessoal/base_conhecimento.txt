@@ -1,0 +1,124 @@
+============================================================
+BASE DE CONHECIMENTO 01 — DEPARTAMENTO PESSOAL
+(Colar na base de conhecimento do agente Aurora Departamento Pessoal)
+============================================================
+
+---
+ADMISSAO — DOCUMENTOS NECESSARIOS
+---
+
+Pergunta: Quais documentos sao necessarios para admissao?
+Resposta: Para a admissao de um colaborador, normalmente sao necessarios:
+- Documento de identificacao (RG ou CNH)
+- CPF
+- Comprovante de residencia
+- Carteira de Trabalho (digital)
+- Titulo de eleitor (quando aplicavel)
+- Certificado de reservista (para homens)
+- Dados bancarios (quando houver pagamento por conta)
+- Certidao de nascimento ou casamento
+- Documentos dos dependentes (se houver)
+- Exame admissional apto
+A relacao pode variar conforme o cargo e o sindicato da categoria.
+
+---
+ADMISSAO — PRAZOS E REGRAS
+---
+
+Pergunta: Qual o prazo limite para envio da documentacao admissional?
+Resposta: A documentacao admissional deve ser enviada antes do inicio das atividades do colaborador, pois o evento de admissao deve ser registrado no eSocial ate um dia antes do inicio do trabalho.
+
+Pergunta: A empresa pode iniciar o colaborador sem o exame admissional?
+Resposta: Nao. O exame admissional e obrigatorio e deve ser realizado antes do inicio das atividades, conforme a legislacao trabalhista e as normas de seguranca e saude do trabalho.
+
+Pergunta: E possivel alterar a data de admissao apos o envio ao eSocial?
+Resposta: Em regra, nao e permitido alterar a data de admissao apos o envio ao eSocial. Caso haja erro, e necessaria analise do caso para verificar a possibilidade de retificacao ou procedimento corretivo, que deve ser avaliado pelo setor responsavel.
+
+---
+FOLHA DE PAGAMENTO — HORAS EXTRAS E ADICIONAIS
+---
+
+Pergunta: Ate quando podem ser enviadas horas extras, faltas e adicionais?
+Resposta: As informacoes de horas extras, faltas e adicionais devem ser enviadas ate a data limite definida para o fechamento da folha de pagamento, conforme o cronograma informado pela contabilidade.
+
+Pergunta: Como funciona o pagamento de horas extras?
+Resposta: As horas extras sao pagas com acrescimo sobre o valor da hora normal, sendo:
+- 50% para horas extras em dias normais
+- 100% para domingos e feriados, salvo previsao diferente em acordo ou convencao coletiva.
+
+Pergunta: Qual o limite legal de horas extras?
+Resposta: O limite legal e de ate 2 horas extras por dia, salvo excecoes previstas em acordo ou convencao coletiva.
+
+Pergunta: Como funciona o banco de horas?
+Resposta: O banco de horas permite compensar horas extras com folgas, desde que exista acordo individual ou coletivo, respeitando os prazos legais para compensacao.
+
+Pergunta: Como sao calculados os adicionais (insalubridade, periculosidade e noturno)?
+Resposta:
+- Insalubridade: percentual de 10%, 20% ou 40% sobre o salario-minimo, conforme grau definido em laudo tecnico.
+- Periculosidade: adicional de 30% sobre o salario-base.
+- Adicional noturno: acrescimo minimo de 20% sobre a hora diurna para trabalho realizado entre 22h e 5h (salvo excecoes).
+Os criterios podem variar conforme convencao coletiva.
+
+Pergunta: E possivel corrigir a folha apos o fechamento?
+Resposta: Sim, e possivel realizar correcoes apos o fechamento da folha, porem isso pode gerar reprocessamentos, ajustes em encargos e possiveis diferencas em impostos, devendo ser analisado caso a caso.
+
+---
+FERIAS
+---
+
+Pergunta: Qual o prazo minimo para solicitar ferias?
+Resposta: As ferias devem ser comunicadas ao colaborador com antecedencia minima de 30 dias, conforme a legislacao trabalhista.
+
+Pergunta: Como funciona o fracionamento de ferias?
+Resposta: As ferias podem ser fracionadas em ate tres periodos, desde que:
+- Um dos periodos tenha no minimo 14 dias corridos
+- Os demais nao sejam inferiores a 5 dias corridos cada.
+
+Pergunta: E permitido vender 1/3 das ferias?
+Resposta: Sim. O colaborador pode vender ate 1/3 do periodo de ferias, por meio do abono pecuniario, desde que solicite ate 15 dias antes do termino do periodo aquisitivo.
+
+Pergunta: Como funcionam as ferias vencidas?
+Resposta: Ferias vencidas ocorrem quando nao sao concedidas dentro do periodo concessivo de 12 meses apos o periodo aquisitivo. Nesses casos, a empresa fica em situacao irregular.
+
+Pergunta: O que acontece se as ferias nao forem concedidas no prazo legal?
+Resposta: Caso as ferias nao sejam concedidas dentro do prazo legal, a empresa devera pagar o periodo em dobro, conforme previsto na legislacao trabalhista.
+
+---
+RESCISAO
+---
+
+Pergunta: Qual o prazo legal para pagamento da rescisao?
+Resposta: O pagamento das verbas rescisorias deve ocorrer ate 10 dias corridos a partir do termino do contrato de trabalho, independentemente do tipo de aviso previo.
+
+Pergunta: Quais tipos de rescisao existem?
+Resposta: Os principais tipos de rescisao sao:
+- Pedido de demissao
+- Dispensa sem justa causa
+- Dispensa por justa causa
+- Rescisao por acordo entre as partes
+- Termino de contrato por prazo determinado.
+
+Pergunta: Como funciona o aviso previo (trabalhado ou indenizado)?
+Resposta:
+- Aviso trabalhado: o colaborador cumpre o periodo trabalhando.
+- Aviso indenizado: o valor e pago sem necessidade de cumprimento.
+O aviso previo e de, no minimo, 30 dias, podendo ser acrescido conforme o tempo de servico.
+
+Pergunta: Quando o colaborador pode dar entrada no seguro-desemprego?
+Resposta: O colaborador pode solicitar o seguro-desemprego a partir do 7o dia apos a rescisao, desde que atenda aos requisitos legais.
+
+---
+SERVICOS OFERECIDOS PELO SETOR DE DP DA CONTINUUM
+---
+
+- Contracheque
+- DARF Previdenciario
+- Vale Alimentacao
+- Vale Transporte
+- PIS sobre Folha
+- Relatorios Auxiliares
+- Homologacao das Rescisoes
+- Admissao
+- Advertencias Disciplinares
+- Orientacoes Tecnicas Conforme CLT
+- Suporte da Previsao Orcamentaria para Custos de Ferias e Decimos

@@ -1,0 +1,39 @@
+============================================================
+TRIAGEM — AURORA CONTABIL
+(Texto de triagem usado pelo supervisor para roteamento)
+============================================================
+
+AURORA CONTABIL e o agente especializado em escrituracao contabil, demonstracoes financeiras e prestacao de contas. Ele atende duvidas sobre balancetes, DRE, rateio e obrigacoes contabeis.
+
+Transferir para este agente quando o cliente mencionar:
+
+ESCRITURACAO CONTABIL:
+- Lancamentos contabeis
+- Escrituracao conforme ITG 2002 (terceiro setor)
+- Conciliacao contabil
+- Classificacao de receitas e despesas
+
+DEMONSTRACOES FINANCEIRAS:
+- Balancete mensal
+- Balanco patrimonial anual
+- Demonstracao de Resultados (DRE)
+- Fluxo de caixa
+- Indicadores financeiros
+- Relatorios gerenciais
+
+PRESTACAO DE CONTAS:
+- Prestacao de contas para assembleias (AGE, AGO)
+- Laudo e notas explicativas trimestrais
+- Parecer tecnico para o conselho
+
+DOCUMENTACAO CONTABIL:
+- Documentos necessarios para o departamento contabil
+- Notas fiscais do mes, extratos bancarios, relatorio financeiro de despesas
+- Prazo de envio da documentacao contabil (ate dia 05 do mes seguinte)
+
+RATEIO:
+- O que e rateio (calculo de contribuicao por associado)
+- Quem faz o rateio (atuario)
+- Calculo tecnico/atuarial
+
+Palavras-chave: balancete, DRE, escrituracao, contabil, lancamento, conciliacao, balanco patrimonial, prestacao de contas, relatorio gerencial, rateio, atuario, ITG 2002, fluxo de caixa, demonstracao financeira, notas explicativas, laudo.

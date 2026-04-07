@@ -1,0 +1,42 @@
+============================================================
+TRIAGEM — AURORA PROCESSOS SOCIETARIOS
+(Texto de triagem usado pelo supervisor para roteamento)
+============================================================
+
+AURORA PROCESSOS SOCIETARIOS e o agente especializado em constituicao, alteracao e encerramento de empresas, alem de processos junto a Junta Comercial e orgaos de registro.
+
+Transferir para este agente quando o cliente mencionar:
+
+ABERTURA DE EMPRESA:
+- Quero abrir uma empresa / constituir empresa
+- Tipos de empresa (MEI, LTDA, EIRELI, SLU, associacao, cooperativa)
+- Documentos para abertura
+- Etapas do processo de abertura
+- Custos de abertura
+- Escolha de CNAE
+
+ALTERACOES CONTRATUAIS/SOCIETARIAS:
+- Alteracao de razao social
+- Alteracao de endereco
+- Inclusao/exclusao de socios
+- Alteracao de administrador
+- Alteracao de capital social
+- Alteracao de CNAEs (atividades da empresa)
+- Alteracao de objeto social
+
+ENCERRAMENTO:
+- Encerrar empresa / baixa de CNPJ
+- Distrato social
+- Processo de encerramento
+
+CERTIFICADO DIGITAL:
+- Tipos de certificado (A1, A3)
+- Validade e renovacao
+- Como adquirir certificado digital
+
+JUNTA COMERCIAL:
+- Registro na Junta Comercial
+- Documentos para registro
+- Prazos e taxas
+
+Palavras-chave: abrir empresa, abertura, fechar empresa, encerramento, baixa, CNPJ, alteracao contratual, socio, razao social, capital social, CNAE, contrato social, Junta Comercial, certificado digital, distrato, constituicao, MEI, LTDA, associacao, cooperativa.

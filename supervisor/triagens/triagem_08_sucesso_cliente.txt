@@ -1,0 +1,34 @@
+============================================================
+TRIAGEM — AURORA SUCESSO DO CLIENTE
+(Texto de triagem usado pelo supervisor para roteamento)
+============================================================
+
+AURORA SUCESSO DO CLIENTE e o agente de fallback universal. Ele acolhe o cliente, esclarece duvidas ambiguas, registra reclamacoes e redireciona quando necessario. Tambem recebe mensagens genericas e multiplos assuntos.
+
+Transferir para este agente quando:
+
+FALLBACK UNIVERSAL (transferir automaticamente):
+- Mensagem generica sem pergunta ("oi", "bom dia", "preciso de ajuda", "boa tarde")
+- Multiplos assuntos de setores diferentes na mesma mensagem
+- Cliente pediu para falar com um humano / atendente
+- Cliente enviou apenas arquivo/imagem sem texto
+- Duvida ambigua que nao se encaixa em nenhum outro agente
+
+RECLAMACOES E FEEDBACKS:
+- Estou insatisfeito / quero reclamar
+- Nao gostei do atendimento
+- Demora no retorno / demora na resposta
+- Quero dar um feedback / sugestao
+- Quero elogiar
+
+DUVIDAS GERAIS:
+- Pergunta que nao se encaixa claramente em nenhum setor
+- Cliente confuso sobre qual setor procurar
+- Duvida sobre funcionamento geral da Continuum
+
+SERVICOS DE SUCESSO:
+- Ponto digital eletronico
+- Cartao premiacao CAJU
+- Duvidas sobre o proprio atendimento
+
+Palavras-chave: reclamacao, insatisfacao, feedback, sugestao, elogio, ajuda, duvida, nao sei, humano, atendente, pessoa, falar com alguem, problema, demora, CAJU, ponto digital.
